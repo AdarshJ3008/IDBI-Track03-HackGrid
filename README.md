@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🏦 IDBI Innovate: Project VyaparDrishti
-### Track 01: Next-Generation DPI Architecture for MSME Financial Health
+# 🏦 IDBI Innovate
+### Track 03: Financial Health Score
 
 [![IDBI Innovate Phase 1](https://img.shields.io/badge/IDBI%20Innovate-Phase%201-008080?style=for-the-badge&logo=bank&logoColor=white)](#)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](#)
