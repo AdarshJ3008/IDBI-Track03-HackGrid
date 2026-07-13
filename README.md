@@ -32,7 +32,7 @@ Traditional banking institutions rely heavily on audited balance sheets, extensi
 ---
 
 ## 💡 Our DPI-Native Solution
-We are pioneering **Project VyaparDrishti**, an architecture that shifts the underwriting paradigm from asset-backed, collateral-first evaluation to dynamic, cash-flow-based digital lending. 
+We are pioneering track 03, an architecture that shifts the underwriting paradigm from asset-backed, collateral-first evaluation to dynamic, cash-flow-based digital lending. 
 
 By leveraging India's Digital Public Infrastructure (DPI)—specifically the Unified Lending Interface (ULI), Open Credit Enablement Network (OCEN 4.0), and Account Aggregator (AA) framework—our engine extracts high-fidelity alternative data to assess risk instantly.
 
